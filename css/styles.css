@@ -1,0 +1,40 @@
+.box_header{
+    width: 100%;
+    float: left;
+    height: 70px;
+    background-color: red;
+    margin: auto;
+    margin: 10px;
+}
+
+.sidebar{
+    width: 10%;
+    float: left;
+    height: 700px;
+    background-color: sandybrown;
+    margin: 10px;
+}
+
+.content{
+    width: 75%;
+    float: left;
+    background-color: turquoise;
+    height: 700px;
+    margin: 10px;
+}
+
+.footer{
+    width: 100%;
+    float: left;
+    height: 40px;
+    background-color: brown;
+    margin: 10px;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: darkgray;
+    margin: 10px;
+    float: left;
+}
